@@ -1,3 +1,3 @@
 public class MyClass {
-int a b;
+int a bc;
 }
